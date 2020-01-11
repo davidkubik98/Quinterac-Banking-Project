@@ -1,0 +1,1 @@
+error cannot perform transactions with deleted account

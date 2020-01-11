@@ -1,0 +1,1 @@
+error cannot transfer to an account that is invalid/doesn't exist

@@ -1,0 +1,7 @@
+login
+user
+withdraw
+123456A
+12334343
+reinhart
+logout

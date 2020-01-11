@@ -1,0 +1,6 @@
+Our frontend is written using Python, so we decided to employ a testing framework developed for Python projects called Pytest. In order to perform our frontend requirements testing our group utilized the self-contained everything in the code approach. We found this to be the simplest way to conduct our testing due to our test cases and code all being in the same folder, making cross references extremely easy. 
+
+The template given to us had been designed to simplify the migration of our projects test cases into code. We modified it by adding our expected inputs and outputs for one of our simple test cases and then running it through GitHub actions. After debugging for a bit we had a working test case, we knew that the setup was correct and began implementing all of our frontend requirements test cases. 
+
+We found the approach through GitHub Actions alongside Pytest to be very intuitive and powerful so we decided not to choose a different approach. 
+

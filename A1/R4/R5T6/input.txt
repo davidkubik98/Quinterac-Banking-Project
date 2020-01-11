@@ -1,0 +1,10 @@
+login
+agent
+create_acct
+1234567
+Quentin
+transfer
+from:"1234567"
+to:"2727279"
+amount:$727
+logout

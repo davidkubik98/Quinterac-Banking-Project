@@ -1,0 +1,2 @@
+Error account name greater than 30 characters
+

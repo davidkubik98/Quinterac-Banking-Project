@@ -1,0 +1,8 @@
+login
+atm
+Quentin
+transfer
+from:"155234567"
+to:"2727279"
+amount:$727
+logout

@@ -1,0 +1,10 @@
+login
+agent
+create_acct
+1234567
+Quentin
+withdraw
+1234567
+Quentin
+1000
+logout

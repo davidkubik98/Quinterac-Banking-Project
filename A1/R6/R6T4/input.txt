@@ -1,0 +1,8 @@
+login
+user
+deposit
+2345678
+999999
+1234567
+reinhart
+logout

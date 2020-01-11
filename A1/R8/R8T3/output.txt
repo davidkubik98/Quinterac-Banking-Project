@@ -1,0 +1,1 @@
+error cannot transfer daily limit of $10000 cannot be exceeded in ATM mode

@@ -1,0 +1,2 @@
+Error account name begins with a space
+

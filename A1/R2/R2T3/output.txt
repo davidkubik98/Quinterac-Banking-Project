@@ -1,0 +1,1 @@
+error: can't delete account in ATM mode

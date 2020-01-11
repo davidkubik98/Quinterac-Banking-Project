@@ -1,0 +1,1 @@
+error cannot transfer over $10000 in ATM mode

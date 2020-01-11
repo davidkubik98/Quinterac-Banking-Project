@@ -1,0 +1,1 @@
+error: can't deposit before logging in

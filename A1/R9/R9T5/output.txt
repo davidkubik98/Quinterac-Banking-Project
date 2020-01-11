@@ -1,0 +1,2 @@
+Error account number has less than 7 digits
+
